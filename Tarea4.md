@@ -46,10 +46,18 @@ En los programas multhilo, los hilos pueden comunicarse compartiendo informació
 
 ## 2.3 Escribe el codigo necesario para crear un hilo con Thread. Adjunta una pantalla del codigo y explicalo
 ![Imagen](Images/capturaHilos.PNG)
-
+- 1. En la clase MiHilo se extiende Thread y se sobreescribe el método run().
+- 2. En el método main(), se crea una instancia de MiHilo.
+- 3. Método start(): Se invoca el método start() para iniciar el hilo. Esto inicia una nueva secuencia de ejecución que llama al método run() en el hilo creado.
+ 
 ## 2.4 Explica el concepto de exclusion mutua en la programacion multihilo
+es una construcción de programación que garantiza que solo un proceso a la vez pueda acceder a un recurso o fragmento de código en particular. Se usa comúnmente en el
+desarrollo de software para evitar que varios subprocesos modifiquen simultáneamente los datos compartidos, lo que puede conducir a un comportamiento impredecible y 
+erróneo en un programa.
+
 ## 2.5 Bibliografia
 https://codigofacilito.com/articulos/threads-procesos
 https://www.unir.net/revista/ingenieria/programacion-concurrente/
 https://dbtutoriales.com/tutorial/tutorial-de-iniciacion-a-java/page/programacion-multihilo-threads-y-concurrencia
 https://oregoom.com/java/crear-hilo/
+https://www.vpnunlimited.com/help/cybersecurity/mutex?srsltid=AfmBOorX7gS5WPcg5vVhjTU6QBVpO0ghS9hjpet19eHT5Q4FZZz4TkqI

@@ -45,9 +45,11 @@
 En los programas multhilo, los hilos pueden comunicarse compartiendo información o enviándose datos entre ellos. Como todos los hilos de un mismo proceso comparten la misma memoria pueden usar variables o estructuras comunes para intercambiar información. Para evitar errores cuando varios hilos acceden al mismo dato al mismo tiempo, se usan mecanismos de sincronización como bloqueos, semáforos o colas. De esta forma, los hilos pueden trabajar juntos sin interferirse.
 
 ## 2.3 Escribe el codigo necesario para crear un hilo con Thread. Adjunta una pantalla del codigo y explicalo
+![Imagen](images/capturaDespues.PNG)
 
 ## 2.4 Explica el concepto de exclusion mutua en la programacion multihilo
 ## 2.5 Bibliografia
 https://codigofacilito.com/articulos/threads-procesos
 https://www.unir.net/revista/ingenieria/programacion-concurrente/
 https://dbtutoriales.com/tutorial/tutorial-de-iniciacion-a-java/page/programacion-multihilo-threads-y-concurrencia
+https://oregoom.com/java/crear-hilo/

@@ -56,8 +56,10 @@ desarrollo de software para evitar que varios subprocesos modifiquen simultánea
 erróneo en un programa.
 
 ## 2.5 Bibliografia
-https://codigofacilito.com/articulos/threads-procesos
-https://www.unir.net/revista/ingenieria/programacion-concurrente/
-https://dbtutoriales.com/tutorial/tutorial-de-iniciacion-a-java/page/programacion-multihilo-threads-y-concurrencia
-https://oregoom.com/java/crear-hilo/
-https://www.vpnunlimited.com/help/cybersecurity/mutex?srsltid=AfmBOorX7gS5WPcg5vVhjTU6QBVpO0ghS9hjpet19eHT5Q4FZZz4TkqI
+
+unir. (s. f.). Unir. https://www.unir.net/revista/ingenieria/programacion-concurrente/
+articulos. (s. f.). Codigofacilito. https://codigofacilito.com/articulos/threads-procesos
+Programación multihilo. . . | dbtutoriales. (s. f.). https://dbtutoriales.com/tutorial/tutorial-de-iniciacion-a-java/page/programacion-multihilo-threads-y-concurrencia
+Nivardo. (2024, 10 septiembre). Cómo Crear un Hilo en Java. Oregoom.com. https://oregoom.com/java/crear-hilo/
+What is Mutex (Mutual Exclusion) - Cybersecurity Terms and Definitions. (s. f.). https://www.vpnunlimited.com/help/cybersecurity/mutex?srsltid=AfmBOorX7gS5WPcg5vVhjTU6QBVpO0ghS9hjpet19eHT5Q4FZZz4TkqI
+

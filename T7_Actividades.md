@@ -84,11 +84,11 @@ La IANA (entidad) es la encargada de asignar los puertos predefinidos:
 
 ## 2.1 Ejercico 1: Descarga el archivo "ejemploInetAddress" y pruebalo con varias paginas web. Esto te dara informacion sobre la pagina web. Adjunta capturas de pantalla de la ejecucion
 
-#### Con NDT
+### Con NDT
 ![Imagen](Images/ej1cap1.PNG)
 
 
-#### Con Youtube
+### Con Youtube
 
 
 ![Imagen](Images/ej1cap2.PNG)

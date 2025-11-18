@@ -86,7 +86,11 @@ La IANA (entidad) es la encargada de asignar los puertos predefinidos:
 
 #### Con NDT
 ![Imagen](Images/ej1cap1.PNG)
+
+
 #### Con Youtube
+
+
 ![Imagen](Images/ej1cap2.PNG)
 
 

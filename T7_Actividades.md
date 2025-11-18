@@ -1,8 +1,8 @@
 # Tema 7
-## Sincronizar varios hilos
-## 1.Conceptos teoricos. Desarrollar cada concepto brebemente
+# Sincronizar varios hilos
+# 1.Conceptos teoricos. Desarrollar cada concepto brebemente
 
-### 1.1. Capas del modelo OSI. Explicalos brevemente 
+## 1.1. Capas del modelo OSI. Explicalos brevemente 
 
 La estandarización del modelo OSI dicta cómo deben funcionar las comunicaciones entre redes
 
@@ -16,7 +16,7 @@ a su destino.
 * Capa de presentación: esta capa se encarga de la representación de datos y la traducción entre formatos de datos.
 * Capa de aplicación: es la capa superior y se relaciona directamente con las aplicaciones y servicios de usuario final.
 
-### 1.2. Capas del modelo TCP/IP. Explicalos brevemente
+## 1.2. Capas del modelo TCP/IP. Explicalos brevemente
 
 EL protocolo TCP/IP consta de las siguientes capas:
 * Capa de aplicación: compuesta por aplicaciones red

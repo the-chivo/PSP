@@ -68,8 +68,12 @@ Pero no es tan sencillo, tendremos que indicar a dónde van dirigidos dichos paq
 La mayoría de puertos se asignan de forma aleatoria, al primero que se encuentre libre. Hay aplicaciones que ya tienen un puerto asignado.
 
 La IANA (entidad) es la encargada de asignar los puertos predefinidos:
-* Puertos conocidos:  reservados a aplicaciones estándar del 0 al 1023 /n
+* Puertos conocidos:  reservados a aplicaciones estándar del 0 al 1023
+
+
   a. 21 - Protocolo FTP
+
+
   b. 80 - Protocolo HTTP
 * Puertos registrados: puertos asignados para servicios o aplicaciones específicas del 1024 al 49151. Aptos para su uso.
 * Puertos dinámicos: se usa para conexiones temporales del 49152 al 65535. 

@@ -59,5 +59,21 @@ Protocolo que no está orientado a conexión. Esto implica que no va a tener nin
 * Mucho más rápido y menos complejo que TCP.
 * Ej: DHCP, DNS…
 
+## 1.5. ¿Por que es inportante el conccepto de puertos en la comunicación en red? Explica brevemente los tipos de puertos.
+
+Para lograr que la información llegue al otro extremo usaremos la capa de red para llegar a la dirección IP destino.
+
+Pero no es tan sencillo, tendremos que indicar a dónde van dirigidos dichos paquetes. Podemos definir direcciones de transporte para que nuestra aplicación pueda estar a la escucha. Esto es lo que conocemos como puerto.
+
+La mayoría de puertos se asignan de forma aleatoria, al primero que se encuentre libre. Hay aplicaciones que ya tienen un puerto asignado.
+
+La IANA (entidad) es la encargada de asignar los puertos predefinidos:
+* Puertos conocidos:  reservados a aplicaciones estándar del 0 al 1023
+  a. 21 - Protocolo FTP
+  b. 80 - Protocolo HTTP
+* Puertos registrados: puertos asignados para servicios o aplicaciones específicas del 1024 al 49151. Aptos para su uso.
+* Puertos dinámicos: se usa para conexiones temporales del 49152 al 65535. 
+
+
 
 

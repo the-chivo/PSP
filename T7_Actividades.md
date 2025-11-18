@@ -40,7 +40,7 @@ Ambos modelos son útiles en diferentes contextos. Ejemplo de usos:
 
 ## 1.4. Explique la diferencia clave entre los protocolos TCP y UPD y proporcione ejemplos de situaciones en las que se utilizaría cada uno de ellos.
 
-### TCP (Protocolo de Control de Transmisión):
+#### TCP (Protocolo de Control de Transmisión):
 * La misión es proporcionar un transporte de información confiable entre el emisor y el receptor.
 * Garantizará que la información se entregue sin errores.
 * Este protocolo parte el mensaje que se quiere enviar en paquetes, enviandolos por el canal de comunicación.

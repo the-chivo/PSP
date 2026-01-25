@@ -4,3 +4,6 @@
 
 ### Codigo:
 ![Imagen](Images/cap1.png)
+
+### Compila y ejecuta el programa desde una terminal:
+![Imagen](Images/cap2.png)

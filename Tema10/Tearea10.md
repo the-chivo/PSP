@@ -7,3 +7,6 @@
 
 ### Compila y ejecuta el programa desde una terminal:
 ![Imagen](Images/cap2.png)
+
+## Forma 2: Activa el cliente Telnet de windows
+![Imagen](Images/cap3.png)

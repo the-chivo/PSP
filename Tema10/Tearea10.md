@@ -10,3 +10,13 @@
 
 ## Forma 2: Activa el cliente Telnet de windows
 ![Imagen](Images/cap3.png)
+
+# Cliente HTTP
+
+## Codigo:
+
+![Imagen](Images/cap4.png)
+
+## Ejecución:
+![Imagen](Images/cap5.png)
+

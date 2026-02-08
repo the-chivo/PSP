@@ -41,14 +41,7 @@ Un ejemplo paradigmático de esta sinergia entre acciones físicas y construcci�
 narrativas es la forma en la que China y Rusia capitalizaron la angustiosa situación por 
 la que pasaba Italia durante los primeros compases de crisis provocados por la COVID
 19. Ambos países encontraron en la inicial actitud dubitativa de la Unión Europea una 
-30 RID, Thomas. Op. cit. 
-31 BRAW, Elisabeth. Defender’s Dilemma. Identifying and Deterring Gray-Zone Aggression. AEI Press, Washington D. 
-C., 2022.  
-Documento de Opinión  
-64/2022 
-14 
-Operaciones de influencia vs. desinformación: diferencias y puntos de conexión 
-Manuel R. Torres Soriano 
+
 oportunidad para reforzar una de sus narrativas habituales. El régimen chino envió a 
 Italia un avión lleno de mascarillas y el ruso, (lo que inicialmente parecía) un avión 
 cargado de personal médico. Ambas autocracias aprovecharon la incapacidad de los 
@@ -63,3 +56,214 @@ hasta el 52 %, frente al 10 % de solo dos meses antes. A mediados de año, el 63
 los italianos dijo que la UE había fallado a su país durante la crisis del coronavirus; el 
 4 % dijo que la UE era el mejor aliado del país durante la crisis, mientras que el 25 % 
 calificó a China como el mejor aliado de Italia.
+
+
+
+1. Qué es
+
+Una campaña de desinformación y operaciones de influencia atribuida al Kremlin.
+
+Su objetivo: desestabilizar democracias occidentales, polarizar sociedades y debilitar el apoyo a Ucrania, especialmente en Europa y América Latina.
+
+Actúa de manera encubierta y multicanal, combinando propaganda, bots, sitios web falsos y redes sociales.
+
+2. Cómo funciona
+Técnica	Descripción
+Medios clonados	Creación de sitios web que imitan medios reales (logos, diseño, estilo) para dar credibilidad a noticias falsas o manipuladas.
+Bots y cuentas falsas	Miles de perfiles automatizados amplificando mensajes estratégicos en X, Meta, TikTok y Telegram.
+Microsegmentación	Mensajes distintos adaptados a idioma, región y sensibilidad cultural del público objetivo.
+Narrativas emocionales	Uso de miedo, indignación o victimización para movilizar emociones y cambiar comportamiento o percepción.
+Amplificación algorítmica	Repetición masiva para engañar a los algoritmos de visibilidad y hacer que los mensajes parezcan virales de manera orgánica.
+3. Público objetivo
+
+Población general: para sembrar desconfianza y polarización.
+
+Líderes políticos y militares extranjeros: para presionar decisiones o crear confusión sobre lealtades.
+
+Medios de comunicación locales: indirectamente, manipulando qué historias se amplifican y cómo se perciben.
+
+4. Impacto
+
+Ha influido en elecciones y debates sociales en varios países europeos y de América Latina.
+
+Ha generado una percepción falsa de apoyo mayoritario a ciertas ideas que realmente son minoritarias.
+
+La operación sigue activa incluso hoy, adaptándose a nuevas redes sociales y herramientas de IA.
+
+5. Por qué es “la más tocha”
+
+Escala global: varios continentes.
+
+Sofisticación tecnológica: combina IA, bots, clonación de medios y análisis de datos.
+
+Encubrimiento extremo: difícil de rastrear quién está detrás de cada acción.
+
+Resultados medibles: polarización, desconfianza en instituciones, influencia en elecciones y debates internacionales.
+
+
+
+
+🧠 ¿Qué es la “guerra de ideas”?
+
+La guerra de ideas es una forma de operación de influencia estratégica y sostenida cuyo objetivo no es ganar una crisis puntual, sino:
+
+👉 moldear cómo otras sociedades entienden el mundo, el poder, la legitimidad y los valores, a lo largo de años o décadas.
+
+No busca que la gente piense X mañana, sino que dentro de 10 años X parezca natural.
+
+🇺🇸 El caso de Estados Unidos: el ejemplo clásico
+1. Origen histórico (Guerra Fría)
+
+Durante la Guerra Fría, EE. UU. entendió que no bastaba con:
+
+armas
+
+economía
+
+alianzas militares
+
+Había que ganar la batalla ideológica contra el comunismo.
+
+Así nace una arquitectura completa de guerra de ideas, no una sola operación.
+
+🏛️ Instrumentos principales
+🔹 1. USIA (U.S. Information Agency)
+
+Fue el corazón del sistema (1953–1999).
+
+Qué hacía:
+
+Difundir narrativas pro‑EE. UU. y pro‑liberalismo
+
+Presentar a EE. UU. como:
+
+moderno
+
+libre
+
+próspero
+
+Contrarrestar propaganda soviética
+
+Cómo lo hacía:
+
+radios (Voice of America)
+
+cine
+
+exposiciones culturales
+
+publicaciones
+
+intercambio académico
+
+👉 Esto NO era propaganda burda, sino sofisticada, cultural y emocional.
+
+🔹 2. Diplomacia cultural (clave)
+
+EE. UU. exportó:
+
+música (jazz, rock)
+
+cine (Hollywood)
+
+estilo de vida
+
+universidades
+
+becas
+
+El mensaje implícito:
+
+“Nuestro sistema produce creatividad, libertad y progreso.”
+
+Esto es influencia sin decir que es influencia.
+
+🔹 3. Think tanks y academia
+
+Financiación y apoyo (directo o indirecto) a:
+
+centros de estudios
+
+expertos
+
+publicaciones
+
+conferencias internacionales
+
+Objetivo:
+
+fijar los marcos mentales del debate:
+
+qué es democracia
+
+qué es desarrollo
+
+qué es seguridad
+
+qué es un “Estado fallido”
+
+Cuando controlas el marco, ganas antes de discutir.
+
+🧩 ¿Por qué esto es una operación de influencia “tocha”?
+
+Porque cumple todos los criterios, pero a escala histórica:
+
+Rasgo	Guerra de ideas
+Horizonte temporal	Décadas
+Público objetivo	Sociedades enteras
+Método	Cultura, educación, valores
+Visibilidad	Baja
+Efecto	Profundo y duradero
+
+No busca manipular emociones inmediatas, sino redefinir lo normal.
+
+🧠 Ejemplo concreto
+
+Después de décadas de guerra de ideas:
+
+“democracia liberal” se vuelve el estándar
+
+“economía de mercado” se percibe como natural
+
+“derechos humanos” se asocian al bloque occidental
+
+Eso no ocurrió solo por hechos, sino por influencia cultural sistemática.
+
+🌍 Versión moderna (siglo XXI)
+
+Hoy esta guerra sigue, pero con nuevos actores:
+
+EE. UU.
+
+promoción de “orden internacional basado en reglas”
+
+narrativas sobre democracia vs autoritarismo
+
+soft power tecnológico (Silicon Valley)
+
+China
+
+“armonía”
+
+“no injerencia”
+
+desarrollo sin democracia liberal
+
+Rusia
+
+relativismo moral
+
+“no hay verdad objetiva”
+
+erosión de confianza en instituciones
+
+👉 Ya no es “capitalismo vs comunismo”, sino cómo se define la realidad.
+
+⚠️ Diferencia clave con propaganda
+
+Propaganda: te dice qué pensar
+
+Guerra de ideas: moldea cómo piensas
+
+Y eso es mucho más peligroso… y efectivo.

@@ -15,4 +15,51 @@ La desinformacion no es tan nueva como podriamos llegar a pensar, de hecho el co
 
 ## 1.2 Operaciones de influencia
 
+Las operaciones de influencia son la aplicación coordinada, integrada y 
+sincronizada de las capacidades diplomáticas, informativas, militares, económicas 
+y de otro tipo de un Estado en tiempos de paz, crisis, conflicto y postconflicto para 
+fomentar actitudes, comportamientos o decisiones por parte de los destinatarios 
+extranjeros que promuevan los intereses y objetivos del actor que las lleva a 
+cabo.
 
+
+Son multicanal (redes, medios, influencers, bots, eventos)
+
+Usan segmentación (mensajes distintos para públicos distintos)
+
+Suelen ser encubiertas o semi-encubiertas
+
+Buscan efectos, no solo transmitir ideas
+
+Una caracteristicas mas inportantes de dicha definicion es que todas las actividades que es se encuentran en el circulo de las operaciones de influencia deben cordinarse con actividades materiales del mundo real, como las operaciones militares, actividades de reconstruccion y otros asuntyos civiles, el desarrllo economico y otras atividides que se desarrollan sobre el terreno. Por que se plantea la idea de que no solo influye en el ambito cognitivo atraves de construcciones discursivas sino que incidiendo en la realidad para que la poblacion extraiga determinado ignificado.
+
+## 1.3 Ejemplos de operaciones de influencia
+
+
+
+Un ejemplo paradigmático de esta sinergia entre acciones físicas y construcción de 
+narrativas es la forma en la que China y Rusia capitalizaron la angustiosa situación por 
+la que pasaba Italia durante los primeros compases de crisis provocados por la COVID
+19. Ambos países encontraron en la inicial actitud dubitativa de la Unión Europea una 
+30 RID, Thomas. Op. cit. 
+31 BRAW, Elisabeth. Defender’s Dilemma. Identifying and Deterring Gray-Zone Aggression. AEI Press, Washington D. 
+C., 2022.  
+Documento de Opinión  
+64/2022 
+14 
+Operaciones de influencia vs. desinformación: diferencias y puntos de conexión 
+Manuel R. Torres Soriano 
+oportunidad para reforzar una de sus narrativas habituales. El régimen chino envió a 
+Italia un avión lleno de mascarillas y el ruso, (lo que inicialmente parecía) un avión 
+cargado de personal médico. Ambas autocracias aprovecharon la incapacidad de los 
+Estados miembros de la UE para ayudar a Italia con los suministros médicos que 
+necesitaba urgentemente durante las dramáticas primeras semanas de la crisis del 
+coronavirus. La aportación simbólica de ambos países tenía como objetivo no tanto 
+salvar a la población italiana como socavar la cohesión de la alianza europea. Pero lo 
+cierto es que la misión aparentemente tuvo éxito. A principios de abril de 2020, poco 
+después de que la ayuda china llegara a Italia, una encuesta32 reveló, por ejemplo, que 
+el número de encuestados que consideraba a China como un amigo se había disparado 
+hasta el 52 %, frente al 10 % de solo dos meses antes. A mediados de año, el 63 % de 
+los italianos dijo que la UE había fallado a su país durante la crisis del coronavirus; el 
+4 % dijo que la UE era el mejor aliado del país durante la crisis, mientras que el 25 % 
+calificó a China como el mejor aliado de Italia.

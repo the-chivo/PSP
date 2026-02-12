@@ -267,3 +267,18 @@ Propaganda: te dice qué pensar
 Guerra de ideas: moldea cómo piensas
 
 Y eso es mucho más peligroso… y efectivo.
+
+
+
+“A diferencia de la propaganda directa de la Segunda Guerra Mundial, Salvar al Soldado Ryan representa una forma moderna de construcción de memoria histórica: no glorifica la guerra, pero sí consolida la narrativa del sacrificio estadounidense como fundamento moral de su liderazgo global.”
+
+
+EE.UU. construye su identidad bélica alrededor del:
+
+Soldado heroico que salva el mundo.
+
+La URSS construye la suya alrededor del:
+
+Pueblo que resiste y sufre pero no se rinde.
+
+Eso es un contraste ideológico muy fuerte.
